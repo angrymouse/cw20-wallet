@@ -3,7 +3,7 @@
   "version": "0.4.0",
   "license": "Apache-2.0",
   "private": true,
-  "homepage": "https://dapps.cosmwasm.com/cw20-wallet",
+  "homepage": "https://cw20.another.software",
   "browserslist": [
     "last 2 chrome versions",
     "last 2 firefox versions",
